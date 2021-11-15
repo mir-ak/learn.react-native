@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "990620055454",
+    "project_id": "yetapp-a2153",
+    "storage_bucket": "yetapp-a2153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990620055454:android:2e1f0e85f7038f3ffa088f",
+        "android_client_info": {
+          "package_name": "com.yet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990620055454-8b031r9gnhk58aqcfruoa7itrnk8in4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yet_app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "990620055454-kico04nmtd7ellhafh0o57rqk1jnp4o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcq9GqC83jTkA8seRGOrI9XhABTULMerY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990620055454-kico04nmtd7ellhafh0o57rqk1jnp4o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

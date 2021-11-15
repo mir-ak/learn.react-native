@@ -1,0 +1,15 @@
+
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+npm install native-base@2.15.2 --force
+npm i react-native-paper
+npm i --save firebase
+npm install --save @react-native-firebase/auth
+npm install --save @react-native-firebase/app
+npm install --save @react-native-firebase/database
+npm install @react-native-firebase/firestore
+npm install --save firebase --force
+npm i react-native-vector-icons
+yarn add react-native-vector-icons
+
